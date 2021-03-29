@@ -10,3 +10,6 @@ def multiply(a,b):
 
 def divide_premium(a,b):
 	return a/b
+
+def get_Remainder(a,b):
+	return a//b
